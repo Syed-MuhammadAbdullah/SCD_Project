@@ -1,2 +1,21 @@
-Semester project of Software construction and development.
-A video file is also uploaded in which the project source code is executed and tested as well as full functionality of the software project is depicted. 
+⚡ Electricity Bill Management System
+This is my SCD Semester Project, built using Java. It includes an Admin Panel and a User Portal for managing electricity billing.
+🔹 Features
+✅ Admin Panel:
+
+Manage users and electricity usage
+Generate and track bills
+View payment history
+
+✅ User Portal:
+
+View electricity usage and bills
+Make payments (if implemented)
+Update profile
+
+🛠 Tech Stack
+
+Java (Swing for GUI)
+MySQL (if used for database)
+
+If you are interested to see the execution of the project then see the execution video on my youtube channel --> https://youtu.be/NRXtxidLzbk?feature=shared
