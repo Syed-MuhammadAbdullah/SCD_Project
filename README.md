@@ -10,12 +10,12 @@ View payment history
 ✅ User Portal:
 
 View electricity usage and bills
-Make payments (if implemented)
+Make payments 
 Update profile
 
 🛠 Tech Stack
 
 Java (Swing for GUI)
-MySQL (if used for database)
+MySQL 
 
 If you are interested to see the execution of the project then see the execution video on my youtube channel --> https://youtu.be/NRXtxidLzbk?feature=shared
